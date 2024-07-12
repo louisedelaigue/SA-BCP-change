@@ -11,3 +11,8 @@ This repository includes the raw data and scripts used to analyze and plot this 
 <sup>3</sup>Department of Earth Sciences, Utrecht University, Utrecht, the Netherlands
 
 *Corresponding author: Louise Delaigue ([louise.delaigue@nioz.nl](mailto:louise.delaigue@nioz.nl))*
+
+## There are three main folders:
+1. **GLODAP**
+2. **ARGO**
+3. **ANALYSIS**
