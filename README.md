@@ -2,6 +2,8 @@
 
 # The Changing Biological Carbon Pump of the South Atlantic Ocean
 
+<img src="ANALYSIS/figs/plot_change_co2_pumps.png" width="860.5" height="405" />
+
 This repository includes the raw data and scripts used to analyze and plot this data for the study:
 
 **The Changing Biological Carbon Pump of the South Atlantic Ocean**
