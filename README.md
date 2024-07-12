@@ -13,6 +13,11 @@ This repository includes the raw data and scripts used to analyze and plot this 
 *Corresponding author: Louise Delaigue ([louise.delaigue@nioz.nl](mailto:louise.delaigue@nioz.nl))*
 
 ## There are three main folders:
-1. **GLODAP**
-2. **ARGO**
-3. **ANALYSIS**
+1. **GLODAP**  
+   Includes Python scripts to process and prepare GLODAPv2.2022 data for analysis.
+
+2. **ARGO**  
+   Includes Python scripts to process and prepare BGC-Argo data for analysis.
+
+3. **ANALYSIS**  
+   Includes Python scripts, in order, to calculate the change in each variable from the combined dataset, propagate uncertainty, and plot the rates of change in each estimate of the soft tissue pump, carbonate pump, and anthropogenic component.
