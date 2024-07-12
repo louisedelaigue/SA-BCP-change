@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/827966432.svg)](https://zenodo.org/doi/10.5281/zenodo.12735205)
+
 # The Changing Biological Carbon Pump of the South Atlantic Ocean
 
 This repository includes the raw data and scripts used to analyze and plot this data for the study:
