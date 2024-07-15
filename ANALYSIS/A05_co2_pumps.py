@@ -14,7 +14,7 @@ ds["soft_pump_no3_change"] = sp_constant_no3 * ds["nitrate_change"]
 
 # === CARBONATE PUMP
 cp_constant = (16/-170)
-ds["carb_pump_change"] = 0.5 * (ds["talk_change"] - cp_constant * ds["nitrate_change"])
+ds["carb_pump_change"] = 0.5 * (ds["talk_change"] - cp_constant * ds["aou_change"])
 # 
 # === ANTHROPOGENIC CO2
 ds["co2_anth_aou_change"] = ds["tco2_change"] - (ds["soft_pump_aou_change"] + ds["carb_pump_change"])
