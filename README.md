@@ -25,3 +25,6 @@ This repository includes the raw data and scripts used to analyze and plot this 
 
 **ANALYSIS**  
    Includes Python scripts, in order, to calculate the change in each variable from the combined dataset, propagate uncertainty, and plot the rates of change in each estimate of the soft tissue pump, carbonate pump, and anthropogenic component.
+
+## License
+This repository is licensed under the GNU General Public License v3.0 (GPL-3.0), ensuring that the software remains free and open, with the source code available for transparency and modification.
